@@ -4,7 +4,7 @@ class Database {
 
    private $host  = 'localhost';
    private $user  = 'root';
-   private $pass  = '';
+   private $pass  = 'root';
    private $db    = 'ta_pemrograman_web_2';
 
    protected $connection;
