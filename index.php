@@ -31,7 +31,6 @@
                   if(isset($_GET['page'])) {
                      $page = $_GET['page'];
                      include($page . '.php');
-                     // var_dump($page); die;
                   }else {
                      include('home.php');
                   }

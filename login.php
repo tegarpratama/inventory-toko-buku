@@ -27,7 +27,7 @@
                <?php Flasher::flash(); ?> 
                <form class="form-signin" action="" method="post">
                   <div class="form-label-group">
-                     <input type="text" id="inputUsername" class="form-control" placeholder="Username" name="username" required autofocus>
+                     <input type="text" id="inputUsername" class="form-control" placeholder="   " name="username" required autofocus>
                      <label for="inputUsername">Username</label>
                   </div>
 
